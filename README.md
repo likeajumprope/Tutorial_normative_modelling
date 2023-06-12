@@ -10,10 +10,12 @@ In this tutorial you will learn:
 
 This repository is a group effort by [Saige Rutherford](https://twitter.com/being_saige), [Thomas Wolfers](https://twitter.com/ThomasWolfers) and has been updated and editied by [Hannah Savage](https://twitter.com/DrHannahSavage) and [Charlotte Fraza](https://twitter.com/CFraza).
 
-## Prerequisite 
+## Prerequisite knowledge
 We will be running all of our code in Google Colab python notebooks. These are essentially Jupyter notebooks run in the :cloud: *cloud* :cloud:. 
 Running our code using Colab will save us from dealing with python library installation and virtual environment setup. 
 It also ensures that we are all working on the same operating system which makes troubleshooting much easier (since there are only 2 instructors and lots of students)! 
+
+In general it is assumed that you have some basic experience with python programming, for an in-depth introduction you can look at the free [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/). Furthermore, the [neuromatch academy](https://compneuro.neuromatch.io/tutorials/intro.html) has some great resources. 
 
 If you have never used Google Colab before, you can check out an introduction notebook with lots of helpful links here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb)
 
@@ -22,6 +24,13 @@ We will also be using the Pandas library for a lot of our code. There is a great
 Other helpful pandas:panda_face:/plotting:bar_chart: links (not required to do during the practial, just added for those who might need extra python help):
 1. [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 2. [Pandas Selecting/Indexing API](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html)
+
+
+## Video
+If you did not have the chance to follow the lecture live at the CPC course here is an alternative presentation given by [Andre Marquand](https://twitter.com/amarquand?lang=en) on Normative modelling:
+
+[![normative modelling lecture](https://img.youtube.com/vi/8YX1K_ln14k/maxresdefault.jpg)](https://www.youtube.com/watch?v=8YX1K_ln14k&t=3s)
+
 
 ### :warning: Setup instructions for Google Colab :warning:
 You can open the python notebook that we will use in this practical directly from this Github account (the links to the notebook are at the bottom of this Read Me file). Before you open the notebook, make sure you are logged into a Google account. All of the code has been tested using Google Chrome web browser. When you are ready to begin, you will click on the **template** Google Colab button below. This will launch a new browser tab with the Google Colab notebook. 

@@ -1,9 +1,16 @@
 # Machine Learning with Normative Modeling Tutorial 
-# Computational Psychiatry Course 2022
-This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) on September 17th, 2022.
+## Computational Psychiatry Course 2023
+This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) 2023.
 
-This repository is a group effort by [Saige Rutherford](https://twitter.com/being_saige) and [Thomas Wolfers](https://twitter.com/ThomasWolfers).
+## Overview tutorial
+In this tutorial you will learn:
+1. To create your own normative models using brain imaging data.
+2. Interpret and visualize the outputs of the normative models.
+3. Use the deviation scores to predict schizophrenia.
 
+This repository is a group effort by [Saige Rutherford](https://twitter.com/being_saige), [Thomas Wolfers](https://twitter.com/ThomasWolfers) and has been updated and editied by [Hannah Savage](https://twitter.com/DrHannahSavage) and [Charlotte Fraza](https://twitter.com/CFraza).
+
+## Prerequisite 
 We will be running all of our code in Google Colab python notebooks. These are essentially Jupyter notebooks run in the :cloud: *cloud* :cloud:. 
 Running our code using Colab will save us from dealing with python library installation and virtual environment setup. 
 It also ensures that we are all working on the same operating system which makes troubleshooting much easier (since there are only 2 instructors and lots of students)! 

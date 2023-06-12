@@ -53,11 +53,13 @@ Once you are in the Colab notebook tab, in the top right corner you will see a `
 
 Before clicking on the colab button below, make sure you are logged into a google account and using Chrome or Firefox internet browser (hopefully a current version)
 
-**Task 1: Fitting normative models from scratch** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_ML_tutorial/blob/master/tasks/1_fit_normative_models.ipynb)
+**Task 1: Fitting normative models from scratch** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CharFraza/CPC_ML_tutorial/blob/master/tasks/1_fit_normative_models.ipynb)
 
-**Task 2: Applying pre-trained normative models** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_ML_tutorial/blob/master/tasks/2_apply_normative_models.ipynb)
+https://github.com/CharFraza/CPC_ML_tutorial/blob/master/tasks/1_fit_normative_models.ipynb
 
-**Task 3: Interpreting and visualizing the outputs of normative models** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_ML_tutorial/blob/master/tasks/3_Visualizations.ipynb)
+**Task 2: Applying pre-trained normative models** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CharFraza/CPC_ML_tutorial/blob/master/tasks/2_apply_normative_models.ipynb)
 
-**Task 4: Using the outputs (Z-scores) as features in predictive model** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_ML_tutorial/blob/master/tasks/4_post_hoc_analysis.ipynb)
+**Task 3: Interpreting and visualizing the outputs of normative models** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CharFraza/CPC_ML_tutorial/blob/master/tasks/3_Visualizations.ipynb)
+
+**Task 4: Using the outputs (Z-scores) as features in predictive model** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CharFraza/CPC_ML_tutorial/blob/master/tasks/4_post_hoc_analysis.ipynb)
 

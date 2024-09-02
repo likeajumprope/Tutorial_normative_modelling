@@ -1,6 +1,6 @@
 # Machine Learning with Normative Modeling Tutorial 
 ## Computational Psychiatry Course 2024
-This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) 2023.
+This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) 2024.
 
 ## Overview tutorial
 In this tutorial you will learn:

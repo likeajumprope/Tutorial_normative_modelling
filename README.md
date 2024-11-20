@@ -71,3 +71,20 @@ Before clicking on the collab button below, make sure you are logged into a Goog
 
 **Task 4: Using the outputs (Z-scores) as features in predictive model** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CharFraza/CPC_ML_tutorial/blob/master/tasks/4_post_hoc_analysis.ipynb)
 
+
+## Suggested Reading
+Here we provide a non-exhaustive list of papers to help you with your understanding of the normative framework.
+- [Evidence for embracing normative modeling](https://elifesciences.org/articles/85082)
+- [The normative modeling framework for computational psychiatry](https://www.nature.com/articles/s41596-022-00696-5)
+- [Charting brain growth and aging at high spatial precision](https://elifesciences.org/articles/72904)
+- [Brain Charts for the Human Lifespan](https://www.nature.com/articles/s41586-022-04554-y)
+- [Unpacking the functional heterogeneity of the Emotional Face Matching Task: a normative modelling approach.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10081244/)
+- [Understanding Heterogeneity in Clinical Cohorts Using Normative Models: Beyond Case-Control Studies.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5023321/)
+- [Hierarchical Bayesian Regression for Multi-site Normative Modeling of Neuroimaging Data.](https://link.springer.com/chapter/10.1007/978-3-030-59728-3_68)
+- [Individual differences v. the average patient: mapping the heterogeneity in ADHD using normative models.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7083555/)
+- [Dissecting the Heterogeneous Cortical Anatomy of Autism Spectrum Disorder Using Normative Models.](https://pubmed.ncbi.nlm.nih.gov/30799285/)
+- [Using normative modelling to detect disease progression in mild cognitive impairment and Alzheimer’s disease in a cross-sectional multi-cohort study.](https://www.nature.com/articles/s41598-021-95098-0)
+- [Evaluation of Brain-Body Health in Individuals With Common Neuropsychiatric Disorders.](https://pubmed.ncbi.nlm.nih.gov/37099313/)
+
+
+

@@ -86,5 +86,6 @@ Here we provide a non-exhaustive list of papers to help you with your understand
 - [Using normative modelling to detect disease progression in mild cognitive impairment and Alzheimer’s disease in a cross-sectional multi-cohort study.](https://www.nature.com/articles/s41598-021-95098-0)
 - [Evaluation of Brain-Body Health in Individuals With Common Neuropsychiatric Disorders.](https://pubmed.ncbi.nlm.nih.gov/37099313/)
 
-
+## Extended tutorials
+If you are curious about performing longitudinal normative modeling, HBR normative modeling, or other methods developed by the Predictive clinical neuroscience lab, see the extended tutorials [here](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/tree/main/tutorials) 🧠. 
 

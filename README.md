@@ -8,7 +8,7 @@ In this tutorial you will learn:
 2. Interpret and visualize the outputs of the normative models.
 3. Use the deviation scores to predict schizophrenia.
 
-This repository is a group effort by [Saige Rutherford](https://twitter.com/being_saige), [Thomas Wolfers](https://twitter.com/ThomasWolfers) and has been updated and edited by [Johanna Bayer](@likeajumprope), [Barbora Rehák Bučková](https://twitter.com/BarboraRehak), [Hannah Savage](https://twitter.com/DrHannahSavage) and [Charlotte Fraza](https://twitter.com/CFraza).
+This repository is a group effort by [Saige Rutherford](https://twitter.com/being_saige), [Thomas Wolfers](https://twitter.com/ThomasWolfers) and has been updated and edited by [Johanna Bayer](https://github.com/likeajumprope), [Barbora Rehák Bučková](https://twitter.com/BarboraRehak), [Hannah Savage](https://twitter.com/DrHannahSavage) and [Charlotte Fraza](https://twitter.com/CFraza).
 
 ## Prerequisite knowledge
 We will be running all of our code in Google Colab Python notebooks. These are essentially Jupyter notebooks run in the :cloud: *cloud* :cloud:. 

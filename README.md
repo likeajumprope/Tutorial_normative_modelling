@@ -5,10 +5,38 @@ This repository contains written instructions, links to code, and data used for 
 ## Overview tutorial
 In this tutorial you will learn:
 1. To create your own normative models using brain imaging data.
-2. Interpret and visualize the outputs of the normative models.
-3. Use the deviation scores to predict schizophrenia.
+2. Use our pre-trained models to make predictions for your own data
+3. Interpret and visualize the outputs of the normative models.
+4. Use the deviation scores to predict schizophrenia.
 
 This repository is a group effort by [Saige Rutherford](https://twitter.com/being_saige), [Thomas Wolfers](https://twitter.com/ThomasWolfers) and has been updated and edited by [Johanna Bayer](https://github.com/likeajumprope), [Barbora Rehák Bučková](https://twitter.com/BarboraRehak), [Hannah Savage](https://twitter.com/DrHannahSavage) and [Charlotte Fraza](https://twitter.com/CFraza).
+
+## Tasks
+**Task 1: Fitting normative models from scratch** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CharFraza/CPC_ML_tutorial/blob/master/tasks/1_fit_normative_models.ipynb)
+
+**Task 2: Applying pre-trained normative models** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CharFraza/CPC_ML_tutorial/blob/master/tasks/2_apply_normative_models.ipynb)
+
+**Task 3: Interpreting and visualizing the outputs of normative models** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CharFraza/CPC_ML_tutorial/blob/master/tasks/3_Visualizations.ipynb)
+
+**Task 4: Using the outputs (Z-scores) as features in predictive model** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CharFraza/CPC_ML_tutorial/blob/master/tasks/4_post_hoc_analysis.ipynb)
+
+## Suggested Reading
+Here we provide a non-exhaustive list of papers to help you with your understanding of the normative framework.
+- [Evidence for embracing normative modeling](https://elifesciences.org/articles/85082)
+- [The normative modeling framework for computational psychiatry](https://www.nature.com/articles/s41596-022-00696-5)
+- [Charting brain growth and aging at high spatial precision](https://elifesciences.org/articles/72904)
+- [Brain Charts for the Human Lifespan](https://www.nature.com/articles/s41586-022-04554-y)
+- [Unpacking the functional heterogeneity of the Emotional Face Matching Task: a normative modelling approach.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10081244/)
+- [Understanding Heterogeneity in Clinical Cohorts Using Normative Models: Beyond Case-Control Studies.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5023321/)
+- [Hierarchical Bayesian Regression for Multi-site Normative Modeling of Neuroimaging Data.](https://link.springer.com/chapter/10.1007/978-3-030-59728-3_68)
+- [Individual differences v. the average patient: mapping the heterogeneity in ADHD using normative models.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7083555/)
+- [Dissecting the Heterogeneous Cortical Anatomy of Autism Spectrum Disorder Using Normative Models.](https://pubmed.ncbi.nlm.nih.gov/30799285/)
+- [Using normative modelling to detect disease progression in mild cognitive impairment and Alzheimer’s disease in a cross-sectional multi-cohort study.](https://www.nature.com/articles/s41598-021-95098-0)
+- [Evaluation of Brain-Body Health in Individuals With Common Neuropsychiatric Disorders.](https://pubmed.ncbi.nlm.nih.gov/37099313/)
+
+## Extended tutorials
+If you are curious about performing longitudinal normative modeling, HBR normative modeling, or other methods developed by the Predictive clinical neuroscience lab, see the extended tutorials [here](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/tree/main/tutorials) 🧠. 
+
 
 ## Prerequisite knowledge
 We will be running all of our code in Google Colab Python notebooks. These are essentially Jupyter notebooks run in the :cloud: *cloud* :cloud:. 
@@ -24,7 +52,6 @@ We will also be using the Pandas library for a lot of our code. There is a great
 Other helpful pandas:panda_face:/plotting:bar_chart: links (not required to do during the practical, just added for those who might need extra Python help):
 1. [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 2. [Pandas Selecting/Indexing API](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html)
-
 
 ## Video
 If you did not have the chance to follow the lecture live at the CPC course here is an alternative presentation given by [Andre Marquand](https://twitter.com/amarquand?lang=en) on Normative modelling:
@@ -62,30 +89,6 @@ Once you are in the Colab notebook tab, in the top right corner you will see a `
 
 Before clicking on the collab button below, make sure you are logged into a Google account and using Chrome or Firefox internet browser (hopefully a current version)
 
-## Tasks
-**Task 1: Fitting normative models from scratch** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CharFraza/CPC_ML_tutorial/blob/master/tasks/1_fit_normative_models.ipynb)
-
-**Task 2: Applying pre-trained normative models** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CharFraza/CPC_ML_tutorial/blob/master/tasks/2_apply_normative_models.ipynb)
-
-**Task 3: Interpreting and visualizing the outputs of normative models** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CharFraza/CPC_ML_tutorial/blob/master/tasks/3_Visualizations.ipynb)
-
-**Task 4: Using the outputs (Z-scores) as features in predictive model** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CharFraza/CPC_ML_tutorial/blob/master/tasks/4_post_hoc_analysis.ipynb)
 
 
-## Suggested Reading
-Here we provide a non-exhaustive list of papers to help you with your understanding of the normative framework.
-- [Evidence for embracing normative modeling](https://elifesciences.org/articles/85082)
-- [The normative modeling framework for computational psychiatry](https://www.nature.com/articles/s41596-022-00696-5)
-- [Charting brain growth and aging at high spatial precision](https://elifesciences.org/articles/72904)
-- [Brain Charts for the Human Lifespan](https://www.nature.com/articles/s41586-022-04554-y)
-- [Unpacking the functional heterogeneity of the Emotional Face Matching Task: a normative modelling approach.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10081244/)
-- [Understanding Heterogeneity in Clinical Cohorts Using Normative Models: Beyond Case-Control Studies.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5023321/)
-- [Hierarchical Bayesian Regression for Multi-site Normative Modeling of Neuroimaging Data.](https://link.springer.com/chapter/10.1007/978-3-030-59728-3_68)
-- [Individual differences v. the average patient: mapping the heterogeneity in ADHD using normative models.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7083555/)
-- [Dissecting the Heterogeneous Cortical Anatomy of Autism Spectrum Disorder Using Normative Models.](https://pubmed.ncbi.nlm.nih.gov/30799285/)
-- [Using normative modelling to detect disease progression in mild cognitive impairment and Alzheimer’s disease in a cross-sectional multi-cohort study.](https://www.nature.com/articles/s41598-021-95098-0)
-- [Evaluation of Brain-Body Health in Individuals With Common Neuropsychiatric Disorders.](https://pubmed.ncbi.nlm.nih.gov/37099313/)
-
-## Extended tutorials
-If you are curious about performing longitudinal normative modeling, HBR normative modeling, or other methods developed by the Predictive clinical neuroscience lab, see the extended tutorials [here](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/tree/main/tutorials) 🧠. 
 

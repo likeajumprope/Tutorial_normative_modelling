@@ -11,6 +11,8 @@ In this tutorial you will learn:
 
 This repository is a group effort by [Saige Rutherford](https://twitter.com/being_saige), [Thomas Wolfers](https://twitter.com/ThomasWolfers) and has been updated and edited by [Johanna Bayer](https://github.com/likeajumprope), [Barbora Rehák Bučková](https://twitter.com/BarboraRehak), [Hannah Savage](https://twitter.com/DrHannahSavage) and [Charlotte Fraza](https://twitter.com/CFraza).
 
+Before clicking on the collab button below, make sure you are logged into a Google account and using Chrome or Firefox internet browser (hopefully a current version)
+
 ## Tasks
 **Task 1: Fitting normative models from scratch** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CharFraza/CPC_ML_tutorial/blob/master/tasks/1_fit_normative_models.ipynb)
 
@@ -87,7 +89,6 @@ Once you are in the Colab notebook tab, in the top right corner you will see a `
 ### Now you are ready to begin coding :brain:	:computer:! 
 ### Good luck :four_leaf_clover: and remember to have fun :smiley:! 
 
-Before clicking on the collab button below, make sure you are logged into a Google account and using Chrome or Firefox internet browser (hopefully a current version)
 
 
 

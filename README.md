@@ -1,6 +1,7 @@
 # Normative modelling using the pcntoolkit - the what, when and why
 
 This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) 2024.
+The slides accomanying this tutorial can be found [here].
 
 ## Overview tutorial
 In this tutorial you will learn:

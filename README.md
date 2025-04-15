@@ -36,6 +36,7 @@ Here we provide a non-exhaustive list of papers to help you with your understand
 - [Dissecting the Heterogeneous Cortical Anatomy of Autism Spectrum Disorder Using Normative Models.](https://pubmed.ncbi.nlm.nih.gov/30799285/)
 - [Using normative modelling to detect disease progression in mild cognitive impairment and Alzheimer’s disease in a cross-sectional multi-cohort study.](https://www.nature.com/articles/s41598-021-95098-0)
 - [Evaluation of Brain-Body Health in Individuals With Common Neuropsychiatric Disorders.](https://pubmed.ncbi.nlm.nih.gov/37099313/)
+- [Methodologiocal foundation of Non-Guassian normative modelling](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00132/120371/Non-Gaussian-normative-modelling-with-hierarchical)
 
 ## Extended tutorials
 If you are curious about performing longitudinal normative modeling, HBR normative modeling, or other methods developed by the Predictive clinical neuroscience lab, see the extended tutorials [here](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/tree/main/tutorials) 🧠. 

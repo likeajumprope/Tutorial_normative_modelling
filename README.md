@@ -1,6 +1,6 @@
 # Normative modelling using the pcntoolkit - the what, when and why
 
-This repository contains written instructions, links to code, and data for a tutorial on normative modelling. The slides accomanying this tutorial can be found [here](https://github.com/likeajumprope/Tutorial_normative_modelling/blob/master/presentation/Talk_April_2025.pdf).
+This repository contains written instructions, links to code, and data for a tutorial on normative modelling 🧠. The slides accomanying this tutorial can be found [here](https://github.com/likeajumprope/Tutorial_normative_modelling/blob/master/presentation/Talk_April_2025.pdf).
 
 
 ## Overview tutorial

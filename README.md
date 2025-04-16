@@ -1,7 +1,9 @@
 # Normative modelling using the pcntoolkit - the what, when and why
 
-This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) 2024.
-The slides accomanying this tutorial can be found [here].
+This repository contains written instructions, links to code, and data for a tutorial on normative modelling. The slides accomanying this tutorial can be found [here].
+
+It is based on the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) 2024.
+
 
 ## Overview tutorial
 In this tutorial you will learn:

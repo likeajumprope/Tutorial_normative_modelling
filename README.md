@@ -1,8 +1,6 @@
 # Normative modelling using the pcntoolkit - the what, when and why
 
-This repository contains written instructions, links to code, and data for a tutorial on normative modelling. The slides accomanying this tutorial can be found [here].
-
-It is based on the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) 2024.
+This repository contains written instructions, links to code, and data for a tutorial on normative modelling. The slides accomanying this tutorial can be found [here](https://github.com/likeajumprope/Tutorial_normative_modelling/blob/master/presentation/Talk_April_2025.pdf).
 
 
 ## Overview tutorial
@@ -12,7 +10,7 @@ In this tutorial you will learn:
 3. Interpret and visualize the outputs of the normative models.
 4. Use the deviation scores to predict schizophrenia.
 
-This repository is a group effort by [Saige Rutherford](https://twitter.com/being_saige), [Thomas Wolfers](https://twitter.com/ThomasWolfers) and has been updated and edited by [Johanna Bayer](https://github.com/likeajumprope), [Barbora Rehák Bučková](https://twitter.com/BarboraRehak), [Hannah Savage](https://twitter.com/DrHannahSavage) and [Charlotte Fraza](https://twitter.com/CFraza).
+This tutorial is based on the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) 2024. The repository is a group effort by [Saige Rutherford](https://twitter.com/being_saige), [Thomas Wolfers](https://twitter.com/ThomasWolfers) and has been updated and edited by [Johanna Bayer](https://github.com/likeajumprope), [Barbora Rehák Bučková](https://twitter.com/BarboraRehak), [Hannah Savage](https://twitter.com/DrHannahSavage) and [Charlotte Fraza](https://twitter.com/CFraza).
 
 Before clicking on the collab button below, make sure you are logged into a Google account and using Chrome or Firefox internet browser (hopefully a current version)
 
